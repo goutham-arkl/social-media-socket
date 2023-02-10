@@ -1,6 +1,6 @@
 const io = require("socket.io")(8900, {
   cors: {
-    origin: ["http://localhost:3000","https://www.zoko.cf","https://api.zoko.cf"],
+    origin: ["http://localhost:3000","https://www.nutranation.ml","https://nutranation.ml"],
   },
 });
 
